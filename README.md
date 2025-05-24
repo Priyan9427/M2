@@ -252,7 +252,14 @@ int fact(int n)
 
 ## OUTPUT:
 
+
+
+
 ![438809777-ae346899-8587-483c-b583-a5cc932ee38b](https://github.com/user-attachments/assets/a40e797c-702c-4daa-8776-540c6006e003)
+
+
+
+
 
 
 ## RESULT:
